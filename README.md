@@ -29,7 +29,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 💰 **FinTrack** | Personal finance tracker to manage expenses and budgets | Node.js + SQL Stack |
+| 💰 **FinTrack** | Personal finance tracker to manage expenses and budgets | Node.js + SQL |
 | ⌨️ **Typing Speed Tester** | A DSA mini project to test and improve your typing speed | C programming + DSA |
 
 ---
