@@ -77,20 +77,12 @@
 
 ---
 
-## 🏆 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/shrutika24?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
-</div>
-
----
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutika-chavan-6b854b343/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shrutika24/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutika-chavan11)
 
 </div>
