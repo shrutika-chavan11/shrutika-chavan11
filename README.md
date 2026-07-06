@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  🎓 B.Tech CSE @ COEP Technological University, Pune &nbsp;|&nbsp; 💻 Web Dev &nbsp;|&nbsp; 🧩 DSA &nbsp;|&nbsp; 🤖 ML Explorer
+  🎓 B.Tech CSE @ COEP Technological University, Pune &nbsp;|&nbsp; 💻 Web Dev &nbsp;|&nbsp; 🧩 DSA
 </h3>
 
 <br/>
